@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/chetna14manku_org/dotnet-basic-dhyjsxwx:d2fc911ac541937f3fb76f2f4a997d157a351df8@sha256:8099e5a5ae7a9f3efc42cc1c8868ecb390c9643fb974e7ae3c20466c5fa9b79c
+        - image: quay.io/chetna14manku_org/dotnet-basic-dhyjsxwx:874e966c1de8bf366c435962699b75d1edae5a77@sha256:669bd7e57953149240b390da67d097585c0ca750ac2d2d73b508aa249456aaa8
           name: container-image
